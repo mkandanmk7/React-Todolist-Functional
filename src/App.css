@@ -13,5 +13,10 @@ body {
 }
 
 .App {
+  height: 400px;
+  width: 400px;
+  background: #ccd;
+  margin: 10px;
+  padding: 30px;
   text-align: center;
 }
